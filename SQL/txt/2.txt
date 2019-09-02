@@ -1,0 +1,115 @@
+Dubai
+Abu Dhabi
+Of.Capital Fed.
+Pta.Catamarca
+Pta.Resistencia
+Pta.Chubut
+Pta.Rio Negro
+Ofic.principal
+Planta Cordoba
+Wien
+Linz
+Salzburg
+Head Office
+Local Office
+Factory
+Head Office
+Warehouse
+Sales Office
+City Office
+Regional Office
+Canberra
+Melbourne
+Sydney
+Brisbane
+Brussels
+Antwerpen
+Namur
+Sofia
+Varna
+Planta Matriz
+Planta Matriz 1
+Planta Matriz 2
+Planta Matriz 3
+Planta Esc.SP
+Planta Esc.SP I
+Planta Fundi??o
+Planta Comp. El
+Newfoundland
+Prince Edward
+Nova Scotia
+New Brunswick
+Quebec
+Ontario
+Manitoba
+Saskatchewan
+Alberta
+BritishColumbia
+Yukon Territory
+Northwest Terri
+Nunavut
+CAW Union 3500
+IBEW Union 472
+IBEW Union 1316
+Executive Board
+Management
+Administrative
+Sales
+Health Services
+Public Works
+Energy/Communic
+Other Business
+Z¨¹rich
+Biel
+Lausanne
+Regensdorf
+Sub ¨¢rea CL01
+Sub ¨¢rea CL02
+SAP Beijing
+Rest of China
+Oficina Central
+Praha
+Brno
+Walldorf
+Dresden
+BAT Krankenhaus
+Aarhus
+Copenhagen
+Cairo
+Alexandria
+Area personal 1
+Area personal 2
+Test
+Administration
+Production
+Maintenance
+Laboratory
+SAP Paris
+Etablissement
+SAP LYON
+Etablissement
+Warrington
+Edinburgh
+Athens
+Thesalonica
+Head office
+Factory
+Pers. subarea 1
+Szem¨¦lyi resz.1
+Head Office
+Production
+Tralee
+Dublin
+Admin
+Production
+Admin
+Admin
+Admin
+Admin
+Admin
+Admin
+Madurai
+Gummidipoondi
+Tirunelveli
+Meelavittan
+Admin
