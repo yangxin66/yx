@@ -31,6 +31,10 @@
   </component>
   <component name="ProjectId" id="1Q2qJHpeKS8TqhtZ9Va0SI4Jwie" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/txt" />
@@ -107,21 +111,14 @@
       <workItem from="1567044592520" duration="15384000" />
       <workItem from="1567074514156" duration="4164000" />
       <workItem from="1567137072422" duration="10459000" />
+      <workItem from="1567403653955" duration="701000" />
+      <workItem from="1567480528942" duration="1160000" />
+      <workItem from="1567494497671" duration="407000" />
+      <workItem from="1567762288558" duration="997000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sqlinesrt/choose.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
