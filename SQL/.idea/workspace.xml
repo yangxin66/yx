@@ -2,26 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dda865f-629c-4306-b281-2ee489c3fce5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlinesrt/word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlinesrt/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlinesrt/ThreadText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlinesrt/ThreadText1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlinesrt/map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DHR.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Navicat Premium 12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SQL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SQL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sqlinesrt/Excel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlinesrt/Excel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sqlinesrt/TxtToSql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlinesrt/TxtToSql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sqlinesrt/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sqlinesrt/Excel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sqlinesrt/Excel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sqlinesrt/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sqlinesrt/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sqlinesrt/TxtToSql.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sqlinesrt/TxtToSql.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sqlinesrt/choose.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sqlinesrt/choose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/wb.xls" beforeDir="false" afterPath="$PROJECT_DIR$/txt/wb.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nzpFB0D.tmp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +85,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sqlinesrt" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Staryang\Desktop\YXproject\yx\yx\SQL" />
       <recent name="C:\Users\Staryang\Desktop\YXproject\SQL\txt" />
@@ -103,9 +105,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sqlinesrt.App" />
+  <component name="RunManager" selected="Application.ThreadText">
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sqlinesrt.Text" />
       <module name="SQL" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TxtToSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sqlinesrt.TxtToSql" />
+    <configuration name="ThreadText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sqlinesrt.ThreadText" />
       <module name="SQL" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="choose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sqlinesrt.choose" />
+    <configuration name="ThreadText1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sqlinesrt.ThreadText1" />
       <module name="SQL" />
       <extension name="coverage">
         <pattern>
@@ -143,7 +145,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excel.testHSSF" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadText.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SQL" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +154,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="sqlinesrt" />
-      <option name="MAIN_CLASS_NAME" value="sqlinesrt.Excel" />
-      <option name="METHOD_NAME" value="testHSSF" />
+      <option name="MAIN_CLASS_NAME" value="sqlinesrt.ThreadText" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadText.my" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sqlinesrt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sqlinesrt" />
+      <option name="MAIN_CLASS_NAME" value="sqlinesrt.ThreadText" />
+      <option name="METHOD_NAME" value="my" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -161,10 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.Excel.testHSSF" />
-        <item itemvalue="Application.choose" />
-        <item itemvalue="Application.TxtToSql" />
+        <item itemvalue="Application.ThreadText" />
+        <item itemvalue="JUnit.ThreadText.main" />
+        <item itemvalue="Application.ThreadText1" />
+        <item itemvalue="Application.Text" />
+        <item itemvalue="JUnit.ThreadText.my" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +208,11 @@
       <workItem from="1567762288558" duration="997000" />
       <workItem from="1568268892165" duration="5175000" />
       <workItem from="1568275707694" duration="1083000" />
+      <workItem from="1570785237838" duration="1590000" />
+      <workItem from="1570793616443" duration="4728000" />
+      <workItem from="1570798756908" duration="990000" />
+      <workItem from="1570842401175" duration="2932000" />
+      <workItem from="1571619884721" duration="8280000" />
     </task>
     <servers />
   </component>

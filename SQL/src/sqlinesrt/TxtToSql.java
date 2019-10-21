@@ -2,6 +2,8 @@ package sqlinesrt;
 
 import java.beans.FeatureDescriptor;
 import java.io.*;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -12,6 +14,7 @@ public class TxtToSql {
         //[\u4E00-\u9FA5]是unicode2的中文区间
         Matcher matcher = pattern.matcher(str);
         //System.out.println(matcher.replaceAll(" "));
+
 
         System.out.println(str);
     }
